@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @zero-skill
-- 🔭 I’m currently working on [PetVA](https://github.com/VicDario/App-frontend)
+- 🥽 I was working on this project [PetVA](https://github.com/VicDario/App-frontend)
+- 🔭 I’m currently work for [Sensolabs](https://sensolabs.cl)
 
 
 <h3 align="left">Languages and Tools:</h3>

@@ -70,13 +70,6 @@
 <br/>  
 
 
-
-<div align="center">
-  <a href="https://github.com/zero-skill/">
-    <img src="https://github-readme-stats.vercel.app/api?username=zero-skill&show_icons=true&theme=blueberry&count_private=true" />
-  </a>
-</div>
-<br>
 <div align="center">
   <a href="https://github.com/zero-skill?tab=repositories">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zero-skill&layout=compact" />

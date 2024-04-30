@@ -1,7 +1,7 @@
 - 👋 Hi, I’m a Software Developer who enjoys learning every day.
 - 🥽 I have worked on the following projects [PetVA](https://github.com/VicDario/petva-frontend), [Sensolink](https://sensol.ink/), [Sensocard](https://sensocard.cl/) & [Una Cola](https://1-cola.sensolabs.cl/)
-- 🔭 I’m currently working at [Sensolabs](https://sensolabs.cl)
-- 📝 Currently learning [ElectronJS](https://www.electronjs.org/) & [TypeScript](https://www.typescriptlang.org/)
+- 🔭 I’m currently working at [ESMAX](https://www.esmax.cl). My previous job was at [Sensolabs](https://sensolabs.cl).
+- 📝 Currently learning [ElectronJS](https://www.electronjs.org/), [AngularJS](https://angular.io/) & [TypeScript](https://www.typescriptlang.org/)
 
 
 <h1 align="left">My Skill Set  :</h1>
